@@ -12,9 +12,10 @@ repeat purchases.
 - Power BI
 - Excel
 - Jupyter Notebook
+- GitHub
 
 ## Project Structure
-'''
+```
 olist-data-analytics/
 │
 ├── data/
@@ -32,7 +33,7 @@ olist-data-analytics/
 ├── Olist_Ecommerce_insights_Report.pdf
 │
 └── README.md
-'''
+```
 
 ##  Key Business Questions
 - How does revenue trend over time?
